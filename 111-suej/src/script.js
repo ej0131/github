@@ -1,0 +1,1 @@
+document.write("阿囉哈我是Su EJ ")
