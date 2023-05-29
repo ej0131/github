@@ -1,1 +1,22 @@
 body {background:#B87070;}
+p{ 
+
+  background-color: gray;
+
+  padding-top:30px; 
+
+  padding-left:30px; 
+
+  padding-right:30px; 
+
+  padding-bottom:30px; 
+
+  margin-top:60px; 
+
+  margin-left:10px; 
+
+  margin-right:10px; 
+
+  margin-bottom:30px;   
+
+}
